@@ -261,8 +261,9 @@
 - [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) - A set of CPU, memory, disk, and network monitoring tools for macOS. [![Open-Source Software][OSS Icon]](https://github.com/yujitach/MenuMeters)
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
 - [Noizio](http://noiz.io/) - Ambient sound equalizer for relaxation or productivity.
-- [Notational Velocity](http://notational.net/) - Store, retrieve and sync notes within a minimal GUI. [![Open-Source Software][OSS Icon]](https://github.com/scrod/nv/) ![Freeware][Freeware Icon]
-- [Numi](http://numi.io/) - Beautiful calculator app. ![Freeware][Freeware Icon]
+- [Notational Velocity](http://notational.net/) - Store, retrieve and sync notes within a minimal GUI. [![Open-Source Software][OSS Icon]](https://github.com/scrod/nv/)
+- [Numi](http://numi.io/) - Beautiful calculator app.
+- [CurrencyX](https://itunes.apple.com/us/app/currencyx/id1088564306?l=en&mt=12/) - Beautiful currency app.
 - [OnyX](http://www.titanium.free.fr/) -  Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more.
 - [Paparazzi](http://derailer.org/paparazzi/) - A small utility that makes screenshots of webpages. ![Freeware][Freeware Icon]
 - [Paragon NTFS](http://www.paragon-drivers.com/ntfs-mac/) - World fastest NTFS driver.
